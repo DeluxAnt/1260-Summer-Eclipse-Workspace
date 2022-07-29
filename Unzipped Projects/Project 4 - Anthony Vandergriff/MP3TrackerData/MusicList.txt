@@ -1,0 +1,11 @@
+Cool guy music|Anthony|Vandergriff|7/23/2021
+seven|Men I Trust|2020|4.25|JAZZ|2.69|3.67|seven.jpg
+Wait a Minute!|WILLOW|2015|3.16|POP|1.99|99.0|willow.jpg
+m.A.A.d city|Kendrick Lamar|2016|5.5|OTHER|45.99|5.669|van.jpg
+Marcel|Her's|2017|3.07|POP|1.99|1.89|marcel.jpg
+Turtles All The Way Down|Sturgill Simpson|2014|3.54|COUNTRY|100.0|99.75|turtle.jpg
+Flower Duet from Lakme|Leo Delibes|1883|3.3|CLASSICAL|1.65|1.23|flower.jpg
+Godzilla|Blue Oyster Cult|1977|3.41|ROCK|5.89|12.234|godzilla.jpg
+Red Red Wine|UB40|1983|3.03|OTHER|13.99|10.11|wine.jpg
+It Might Be Time|Tame Impala|2019|4.33|POP|3.21|4.32|time.jpg
+Fangs|Matt Champion|today|3.23|POP|three|109.4|fangs.jpg

@@ -1,0 +1,14 @@
+Travel Toons|Erin|Cook|06/21/2021
+Back In Time|Huey Lewis and the News|09/01/1985|POP|4.18|301.29|8765.21|BackToTheFuture.jpg
+Funkytown|Lips Inc.|01/01/1979|POP|2.15|421.52|6545.43|BackToTheFuture.jpg
+Minuet in G#|Bach|04/01/1725|CLASSICAL|3.65|301.29|9865.2|BachHits.jpg
+Minuet in Ab|Bach|07/01/1727|CLASSICAL|4.18|654.21|8765.2|BachHits.jpg
+Lightning Crashes|Live|09/24/1994|ROCK|2.98|395.45|7654.2|ThrowingCopper.jpg
+Thunderstruck|AC/DC|09/01/1990|ROCK|4.18|321.84|7654.5|TheRazorsEdge.jpg
+Hysteria|Def Leppard|04/01/1987|ROCK|4.18|301.29|6745.1|Hysteria.jpg
+Rocket|Def Leppard|04/01/1987|ROCK|4.18|754.29|9845.1|Hysteria.jpg
+Open Your Heart|Madonna|08/01/1986|POP|3.74|413.29|7543.3|TrueBlue.jpg
+White Heat|Madonna|08/01/1986|POP|3.67|408.4|7213.3|TrueBlue.jpg
+Purple Rain|Prince|06/25/1984|POP|654.3|2.87|9876.0|PurpleRain.jpg
+Dancing while Surfing|Me|07/11/2021|POP|3216.0|3.55|9865.0|SillySongs.jpg
+Cooking with Candy|Bob Jones|07/11/2021|POP|4.12|2.5|6543.0|candyjams.jpg
